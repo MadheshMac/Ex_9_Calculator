@@ -269,7 +269,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/83b9abc8-da78-4c4c-84dc-a734e391892d {width=40px height=400px})
+![image](https://github.com/user-attachments/assets/83b9abc8-da78-4c4c-84dc-a734e391892d)
 
 ![image](https://github.com/user-attachments/assets/8d34401e-6578-4a05-932b-03d9d4d85f49)
 
