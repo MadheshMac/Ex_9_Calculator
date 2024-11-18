@@ -269,9 +269,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/83b9abc8-da78-4c4c-84dc-a734e391892d)
+<img src="https://github.com/user-attachments/assets/83b9abc8-da78-4c4c-84dc-a734e391892d" width=200>
 
-![image](https://github.com/user-attachments/assets/8d34401e-6578-4a05-932b-03d9d4d85f49)
+<img src="https://github.com/user-attachments/assets/8d34401e-6578-4a05-932b-03d9d4d85f49" width=200>
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
